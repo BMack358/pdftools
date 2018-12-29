@@ -1,0 +1,56 @@
+A senior engineer with extensive experience  in engineering management, design,  manufacturing/ process engineering as well as manufacturing test development. This combination of engineering and manufacturing operations experience, along with over 20 years in technical leadership roles  make me ideally qualified to help bring �products� to market with an optimum balance of risk management and time-to-market.  I am actively seeking an opportunity within operations where I can have significant impact and contribute to the overall success of a team.
+
+Highlights
+Outstanding abilities in employee recruitment, training, coaching, leadership and team-building.
+Strong technical aptitude and hands-on, complex problem solver in electronics, mechanics, plastics, electro-optics, software/ embedded firmware.
+A passion for Lean Manufacturing and continuous improvement.
+Excellent knowledge of manufacturing processes including DFM/DFT/PFMEA.
+Strong knowledge of safety and quality standards; OHSA, ISO-9001, ISO-13485, UL, CSA, TUV, FAA, DOT, etc.
+Excellent skills in program management.
+Proficient with MS Office, NI Labview, TestPoint, Python, Windows and Linux OS.  
+
+
+Experience
+
+EPM Global Services Inc. dba Vexos	Jul '02 � May '17	
+Vexos (EPM Global Services Inc.), is a full service, high-mix, low- to mid volume electronics manufacturing and custom material solutions provider supplying state-of-the-art solutions to a diverse group of OEMs. It has grown to include manufacturing facilities in Canada, USA, Hong Kong and China. 
+
+VP Engineering,  May '06 �  May '17
+Responsible for all engineering functions at Shenzhen (PRC) and Markham, ON facilities and providing technical and business development support for all other facilities.  
+Developed and maintained best practices for all process and manufacturing standards, NPI, DFM/DFT guidelines.
+Managed a variety of capital equipment and facility expansion projects and budgets including an advanced, state of the art SMT line.
+Operations consult for numerous Kaizen and Lean Manufacturing improvements.
+Manager, Engineering,  Jul '02 � May '06
+Established technical team of engineers and technologists, allowing the company to engage in more technically complex products and customers and provide  broader test and product support services.
+Introduced a variety of test methodologies including In-Circuit Testing (Agilent 3070), Boundary Scan, Flying Probe, and a variety of Functional and Acceptance Test strategies.
+Worked with customers' engineering requirements and created test and inspection plans and developed and implemented test fixtures and programs to support a wide variety of products.
+Established an automated system to standardize the labour quoting process.
+Worked closely with Quality and Operations to implement a world class shop floor control and quality reporting system based on the Siemens/Technomatix digital manufacturing solutions.	
+
+Inspec Test Solutions, President/ Owner	Feb �97 � Jul '02
+ITS provided complete turnkey test systems for a variety of customers including 3M Canada, SAFT/Alcatel, EPM, Christie Digital Systems, and Datavation.  
+Developed specifications and statements of work for customer approval.
+designed, built and integrated hardware and software and provided training for the customer's test and manufacturing groups.
+Provided technical consulting to the Government of Canada for their �SR&ED� Tax credit program, reviewing technical claims to determine if they met the technical requirements of the program.
+
+L-3 Wescam Inc. 	Oct�90 � Sep �97
+Wescam is a world leader in the development and manufacture of gyro-stabilized sensor platforms.  The systems are used in commercial, paramilitary and military applications and are also deployed in the entertainment industry.
+Manager, Manufacturing Technology Sep �95 � Feb �97
+Established state-of-the-art test facility, including the development of a custom electro-dynamic shaker platform, environmental test chambers, optical test tables and alignment systems. 
+Initiated outsourcing of the manufacture of the company's electronic circuit board assemblies.
+
+Engineering Manager Oct 90 � Sep �95 
+Led a team of approximately 20 engineers, technologists and administrators responsible for the development of various stabilization systems.  
+Established Wescam's initial quality control system and established a documentation control process and engineering development procedures that allowed the company to obtain registration to AQAP-1 and ISO-9001.
+Created project definitions,  product specifications, and developed technical quotes and proposals for the development of a number of multi-sensor platform systems.  
+
+Spar Aerospace Ltd.  Thermal Imaging Systems, Project Engineer	Dec �84 � Oct �90
+Assembled and lead an engineering team responsible for developing a 'Person-portable' Thermal Imaging System under contract with the Canadian Armed Forces.    
+Completed the development of the product, developed and performed complete product Design Qualification and First Article Production Verification tests.  
+Oversaw custom ASIC chip development for motor control, signal processing, and CRT control functions.
+
+Education
+
+B. Eng. (Electrical Engineering)
+Carleton University, Ottawa, On
+	
